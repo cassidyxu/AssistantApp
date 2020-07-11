@@ -1,2 +1,2 @@
 # AssistantApp
-weather, to-do list, wiki
+weather, to-do list, wiki apps
