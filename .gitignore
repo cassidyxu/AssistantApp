@@ -2,6 +2,9 @@
 .AppleDouble
 .LSOverride
 ._*
+.project
+.classpath
+.settings
 
 target/
 pom.xml.tag
